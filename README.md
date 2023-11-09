@@ -10,8 +10,8 @@
 
 # 1. 실행
 
-0. 터미널에 `pip install --upgrade pip` 실행 -> pip 최신버전으로 업그레이드
-1. 터미널에 `pip install -r requirements.txt` 명령어 실행
+0. 터미널에 `pip install --upgrade pip` 실행 -> pip 최신버전으로 업그레이드.
+1. 터미널에 `pip install -r requirements.txt` 명령어 실행.
 2. 터미널에 `mkdir data` 명령어 실행
 3. data 폴더에 각자 전달받은 csv파일 넣기
 4. 터미널에 `python get_data.py --get_videos` 실행 -> video가 제대로 다운되는지 확인
